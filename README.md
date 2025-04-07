@@ -10,8 +10,13 @@ Curso de Programación 2, Universidad Nacional de Lujan
 ## N° de grupo: 09
 ## Alumnos:
 Apellido y Nombre // Legajo // Mails
-#####Lopez Nayla // 195207 // naylaflor01@gmail.com
-#####Alexandre Wanda Stephanie // 205497
-#####Werbach Lopez Lautaro // 200828
-#####Manrique Lautaro // 192138
-#####Fabrizio Thiago // 196653
+
+Lopez Nayla // 195207 // naylaflor01@gmail.com
+
+Alexandre Wanda Stephanie // 205497
+
+Werbach Lopez Lautaro // 200828
+
+Manrique Lautaro // 192138
+
+Fabrizio Thiago // 196653
