@@ -14,10 +14,10 @@ Apellido y Nombre // Legajo // Mails
 
 Lopez Nayla // 195207 // naylaflor01@gmail.com
 
-Alexandre Wanda Stephanie // 205497 //
+Alexandre Wanda Stephanie // 205497 // Wandaalexandre05@gmail.com
 
-Werbach Lopez Lautaro // 200828 //
+Werbach Lopez Lautaro // 200828 // lautarowerbach@gmail.com
 
-Manrique Lautaro // 192138 //
+Manrique Lautaro // 192138 // manrilau13@gmail.com
 
-Fabrizio Thiago // 196653 //
+Fabrizio Thiago // 196653 // fthiagito@gmail.com
