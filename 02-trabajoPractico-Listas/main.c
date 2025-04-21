@@ -13,13 +13,13 @@ int main(){
     int ejercicio = 0, casos = 0;
     double aux_ejercicio = 0;
     while(ejercicio != -1){
-        printf("Ingrese el número del ejercicio deseado (2-6) o -1 para salir del programa\n");
+        printf("Ingrese el numero del ejercicio deseado (2-6) o -1 para salir del programa\n");
         fgets(auxiliar, MAX, stdin);
         auxiliar[strcspn(auxiliar, "\n")] = '\0';
         aux_ejercicio = validar_numero(auxiliar);
         while(!esEntero(aux_ejercicio)){
             printf("Debe ingresar un valor entero. Intento nuevamente.\n");
-            printf("Ingrese el número del ejercicio deseado (2-6) o -1 para salir del programa\n");
+            printf("Ingrese el numero del ejercicio deseado (2-6) o -1 para salir del programa\n");
             fgets(auxiliar, MAX, stdin);
             auxiliar[strcspn(auxiliar, "\n")] = '\0';
             aux_ejercicio = validar_numero(auxiliar);
