@@ -51,7 +51,7 @@ double validar_numero(char *valor){
        n1 = strtod(valor, &resultado); 
        valido = true;
        if (valor == resultado || *resultado != '\0'){
-           printf("Opcion no valida. Por favor, ingrese un número: \n");
+           printf("Opcion no valida. Por favor, ingrese un numero: \n");
            fgets(valor, MAX, stdin);
            valor[strcspn(valor, "\n")] = '\0';
            valido = false;
