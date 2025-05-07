@@ -366,7 +366,7 @@ Pila p_ej8_sacarrepetidos(Pila p) {
     }
     for(int i = 0; i < 100; i++) {
         if(conteos[i] > 0) {
-            TipoElemento nuevo = te_crear_con_valor(i, (void*)(intptr_t)conteos[i]);
+            TipoElemento nuevo = te_crear_con_valor(i, (void*)(intptr_t)(conteos[i]));
             p_apilar(resultado, nuevo);
         }
     }
