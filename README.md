@@ -12,10 +12,6 @@ Curso de Programación 2, Universidad Nacional de Lujan
 
 Apellido y Nombre // Legajo // Mails
 
-Lopez Nayla // 195207 // naylaflor01@gmail.com
-
-Alexandre Wanda Stephanie // 205497 // Wandaalexandre05@gmail.com
-
 Werbach Lopez Lautaro // 200828 // lautarowerbach@gmail.com
 
 Manrique Lautaro // 192138 // manrilau13@gmail.com
